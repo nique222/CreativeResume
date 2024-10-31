@@ -1,9 +1,9 @@
 h1 {
     font-size: 60px;
-    font-family: fantasy;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: black;
 }
 
-p{
-    word-wrap: break-word;
+img {
+    float: left;
 }
