@@ -1,9 +1,10 @@
 h1 {
     font-size: 60px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: black;
+    font-family: 'Times New Roman' , 'Times New Roman', Times, serif;
+    color: white;
 }
 
-img {
-    float: left;
+p {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
 }
