@@ -2,9 +2,22 @@ h1 {
     font-size: 60px;
     font-family: 'Times New Roman' , 'Times New Roman', Times, serif;
     color: white;
+    text-align: center;
+
 }
+
+h2{
+    color:white ;
+    float: left;
+    font-size: 50px;
+}
+
+
 
 p {
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    font-size: 20px;
 }
+
+
