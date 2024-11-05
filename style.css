@@ -8,11 +8,9 @@ h1 {
 
 h2{
     color:white ;
-    float: left;
+    text-align: center;
     font-size: 50px;
 }
-
-
 
 p {
     font-family: 'Times New Roman', Times, serif;
@@ -20,4 +18,25 @@ p {
     font-size: 20px;
 }
 
+div{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
 
+.Achievements {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+table, th, td {
+    border: 1px solid;
+    color: white;
+}
+
+.links {
+    display: flex;
+    align-items: center;
+    
+}
